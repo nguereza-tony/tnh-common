@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>cf.iacademy</groupId>
+  <artifactId>tnh-common</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>TNH Common library</name>
+  <description>A library containing some used mostly classes for personnal project </description>
+</project>
